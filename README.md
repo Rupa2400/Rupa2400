@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rupa2400
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Computer Engineering
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
