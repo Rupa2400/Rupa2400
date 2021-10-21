@@ -22,13 +22,3 @@ These are all my skills:
 ![](https://img.shields.io/badge/<MARKETING>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ea9999)
 
 
-You can find me on 
-[![Twitter][1.2]][1]
-[![LinkedIn][3.2]][3]
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[3.2]:https://cdn3.iconfinder.com/data/icons/sociocons/256/linkedin-sociocon.png
-[1]: https://twitter.com/rupabhatia2
-[3]: https://www.linkedin.com/in/rupa-bhatia/
-
-
