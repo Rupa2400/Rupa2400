@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning ReactJs and Graphic Designing
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/rupa-bhatia-946388186/
+- 📫 How to reach me https://www.linkedin.com/in/rupa-bhatia/
 
 These are all my skills: 
 
