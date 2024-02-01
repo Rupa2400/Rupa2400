@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rupa Bhatia, final year student at Thadomal Shahani Engineering College
+- 👋 Hi, I’m Rupa Bhatia, final-year student at Syracuse University
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning ReactJs and Graphic Designing
 - 💞️ I’m looking to collaborate on ...
