@@ -35,24 +35,27 @@ Machine Learning:
 ![](https://img.shields.io/badge/<Streamlit>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
 
 
-
-
-
-
-API Development: MySQL, AWS, MongoDB, Firebase, SQLite, Flask, Bootstrap, Django, NLP, NLTK, Tkinter
-Software: SQL Server Management Studio, Microsoft Azure, Git, Github, Android Studio, WordPress, Shopify, Tableau, PowerBi
-![](https://img.shields.io/badge/<BOOTSTRAP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=741b47)
-
+API Development:
 ![](https://img.shields.io/badge/<MYSQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
 ![](https://img.shields.io/badge/<NLP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
 ![](https://img.shields.io/badge/<NLTK>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
-![](https://img.shields.io/badge/<Microsoft-Azure>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
 ![](https://img.shields.io/badge/<AWS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
 ![](https://img.shields.io/badge/<Firebase>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
 ![](https://img.shields.io/badge/<Tkinter>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
+![](https://img.shields.io/badge/<BOOTSTRAP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=741b47)
+![](https://img.shields.io/badge/<MongoDB>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=741b47)
+![](https://img.shields.io/badge/<SQLite>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=741b47)
+![](https://img.shields.io/badge/<Flask>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=741b47)
+![](https://img.shields.io/badge/<Django>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=741b47)
 
-![](https://img.shields.io/badge/<WORDPRESS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=6b4c1b)
-![](https://img.shields.io/badge/<CANVA>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=9fc5e8)
-![](https://img.shields.io/badge/<MARKETING>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ea9999)
+
+Software:
+![](https://img.shields.io/badge/<SQL-Server-Management-Studio>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=6b4c1b)
+![](https://img.shields.io/badge/<Microsoft-Azure>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
+![](https://img.shields.io/badge/<Git>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=9fc5e8)
+![](https://img.shields.io/badge/<WordPress>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ea9999)
+![](https://img.shields.io/badge/<Shopify>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ea9999)
+![](https://img.shields.io/badge/<Tableau>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ea9999)
+![](https://img.shields.io/badge/<PowerBi>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ea9999)
 
  
