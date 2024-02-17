@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rupa Bhatia, final-year student at Syracuse University
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning ReactJs and Graphic Designing
+- 🌱 I’m currently working on Machine Learning and Algorithmic Projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/rupa-bhatia/
 
