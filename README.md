@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Rupa Bhatia, final-year student at Syracuse University
+- 👋 Hi, I’m Rupa Bhatia, a final-year student at Syracuse University
 - 👀 I’m interested in Coding
 - 🌱 I’m currently working on Machine Learning and Algorithmic Projects
 - 💞️ I’m looking to collaborate on innovative machine learning projects, algorithmic challenges, and web development tasks. If you share a passion for these areas or have exciting projects in mind, feel free to reach out!
 - 📫 How to reach me https://www.linkedin.com/in/rupa-bhatia/
+
+- As an individual with strong problem-solving abilities, effective communication and time management skills, and a passion for technology and innovation, I am eager to contribute my skills and knowledge to a dynamic team in the field of software and technology. Outside of the professional sphere, my passion for reading and music fuels my creativity and enhances my ability to think innovatively. 
+- My commitment to excellence, combined with my diverse experiences, positions me as a valuable asset ready to drive positive change and achieve exceptional results in a full-time role.
 
 These are all my skills: 
 
