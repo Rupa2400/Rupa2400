@@ -16,8 +16,8 @@ Programming Languages:
 ![](https://img.shields.io/badge/<CSS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff65bf)
 ![](https://img.shields.io/badge/<JAVASCRIPT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=f44336)
 ![](https://img.shields.io/badge/<Kotlin>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffe599)
-![](https://img.shields.io/badge/<REACTJS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffe599)
-![](https://img.shields.io/badge/<NodeJS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffe599)
+![](https://img.shields.io/badge/<REACTJS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=bada55)
+![](https://img.shields.io/badge/<NodeJS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=00cc66) 
 
 
 
