@@ -21,7 +21,24 @@ Programming Languages:
 
 
 
-Machine Learning: Tensorflow, PyTorch, scikit-learn, Keras, spaCy, ChatterBot, Numpy, Matplotlib, Pandas, OpenCV, Streamlit
+Machine Learning:
+![](https://img.shields.io/badge/<Tensorflow>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
+![](https://img.shields.io/badge/<PyTorch>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
+![](https://img.shields.io/badge/<scikit-learn>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
+![](https://img.shields.io/badge/<Keras>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
+![](https://img.shields.io/badge/<spaCy>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
+![](https://img.shields.io/badge/<ChatterBot>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
+![](https://img.shields.io/badge/<Numpy>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
+![](https://img.shields.io/badge/<Pandas>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
+![](https://img.shields.io/badge/<Matplotlib>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
+![](https://img.shields.io/badge/<OpenCV>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
+![](https://img.shields.io/badge/<Streamlit>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
+
+
+
+
+
+
 API Development: MySQL, AWS, MongoDB, Firebase, SQLite, Flask, Bootstrap, Django, NLP, NLTK, Tkinter
 Software: SQL Server Management Studio, Microsoft Azure, Git, Github, Android Studio, WordPress, Shopify, Tableau, PowerBi
 ![](https://img.shields.io/badge/<BOOTSTRAP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=741b47)
