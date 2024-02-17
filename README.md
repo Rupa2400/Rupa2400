@@ -36,17 +36,18 @@ Machine Learning:
 
 
 API Development:
-![](https://img.shields.io/badge/<MYSQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
-![](https://img.shields.io/badge/<NLP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
-![](https://img.shields.io/badge/<NLTK>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
-![](https://img.shields.io/badge/<AWS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
-![](https://img.shields.io/badge/<Firebase>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
-![](https://img.shields.io/badge/<Tkinter>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
-![](https://img.shields.io/badge/<BOOTSTRAP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=741b47)
-![](https://img.shields.io/badge/<MongoDB>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=741b47)
-![](https://img.shields.io/badge/<SQLite>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=741b47)
-![](https://img.shields.io/badge/<Flask>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=741b47)
-![](https://img.shields.io/badge/<Django>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=741b47)
+![](https://img.shields.io/badge/<MYSQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
+![](https://img.shields.io/badge/<NLP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![](https://img.shields.io/badge/<NLTK>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
+![](https://img.shields.io/badge/<AWS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/<Firebase>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
+![](https://img.shields.io/badge/<Tkinter>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=purple)
+![](https://img.shields.io/badge/<BOOTSTRAP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=brown)
+![](https://img.shields.io/badge/<MongoDB>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=teal)
+![](https://img.shields.io/badge/<SQLite>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=pink)
+![](https://img.shields.io/badge/<Flask>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=indigo)
+![](https://img.shields.io/badge/<Django>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=gray)
+
 
 
 Software:
