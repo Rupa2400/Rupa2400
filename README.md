@@ -23,16 +23,16 @@ Programming Languages:
 
 Machine Learning:
 ![](https://img.shields.io/badge/<Tensorflow>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
-![](https://img.shields.io/badge/<PyTorch>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
-![](https://img.shields.io/badge/<scikit-learn>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
-![](https://img.shields.io/badge/<Keras>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
-![](https://img.shields.io/badge/<spaCy>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
-![](https://img.shields.io/badge/<ChatterBot>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
-![](https://img.shields.io/badge/<Numpy>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
-![](https://img.shields.io/badge/<Pandas>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
-![](https://img.shields.io/badge/<Matplotlib>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
-![](https://img.shields.io/badge/<OpenCV>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
-![](https://img.shields.io/badge/<Streamlit>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
+![](https://img.shields.io/badge/<PyTorch>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=1f425f)
+![](https://img.shields.io/badge/<scikit-learn>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff69b4)
+![](https://img.shields.io/badge/<Keras>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
+![](https://img.shields.io/badge/<spaCy>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![](https://img.shields.io/badge/<ChatterBot>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=success)
+![](https://img.shields.io/badge/<Numpy>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/<Pandas>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff8000)
+![](https://img.shields.io/badge/<Matplotlib>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff3333)
+![](https://img.shields.io/badge/<OpenCV>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4CAF50)
+![](https://img.shields.io/badge/<Streamlit>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=9cf)
 
 
 API Development:
