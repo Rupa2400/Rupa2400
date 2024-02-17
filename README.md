@@ -55,8 +55,8 @@ Software:
 ![](https://img.shields.io/badge/<Microsoft-Azure>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8fce00)
 ![](https://img.shields.io/badge/<Git>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=9fc5e8)
 ![](https://img.shields.io/badge/<WordPress>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ea9999)
-![](https://img.shields.io/badge/<Shopify>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ea9999)
-![](https://img.shields.io/badge/<Tableau>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ea9999)
-![](https://img.shields.io/badge/<PowerBi>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ea9999)
+![](https://img.shields.io/badge/<Shopify>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=d35400)
+![](https://img.shields.io/badge/<Tableau>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/<PowerBi>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=27ae60)
 
  
