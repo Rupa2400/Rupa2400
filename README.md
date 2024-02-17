@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rupa Bhatia, final-year student at Syracuse University
 - 👀 I’m interested in Coding
 - 🌱 I’m currently working on Machine Learning and Algorithmic Projects
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on innovative machine learning projects, algorithmic challenges, and web development tasks. If you share a passion for these areas or have exciting projects in mind, feel free to reach out!
 - 📫 How to reach me https://www.linkedin.com/in/rupa-bhatia/
 
 These are all my skills: 
